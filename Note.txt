@@ -69,5 +69,10 @@ include will check weather the element is present in array or not it will return
 types of data types:-
 number,string,array,boolean,null,undifined,biginit
 
+rest and spread operator :-
+spread operator :- when you try to expand array or object literals
+rest operator :- use in function to get all the parameters or may be rest of the parameters
+
+
 
 	
