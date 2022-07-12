@@ -1,0 +1,60 @@
+React?
+Html.index ==>
+react-bootstrap
+defaultprops
+proptypes
+ctrl+w	
+
+ES6 concepts?
+
+
+What is Higher order function?
+A higher-order component is a function that takes a component and returns a new component.
+when we pass component as an arugument in a component and return new component
+
+
+What is Jsx?
+
+What are react events?
+
+React Memo?
+
+
+What is props?
+We use props in React to pass data from one component to another (from a parent component to a child component(s))
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+React hooks?
+
+What is usecallback? 
+Pass an inline callback and an array of dependencies. useCallback will return a memoized version of the callback that only changes if one of the dependencies has changed. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders.The useCallback hook is used when you have a component in which the child is rerendering again and again without need.
+
+What is a useRef?
+The useRef is a hook that allows to directly create a reference to the DOM element in the functional component. Syntax: const refContainer = useRef(initialValue); The useRef returns a mutable ref object.
+
+What is useContext?
+“useContext” hook is used to create common data that can be accessed throughout the component hierarchy without passing the props down manually to each level. 
+
+What is Usememo?
+React has a built-in hook called useMemo that allows you to memoize expensive functions so that you can avoid calling them on every render. You simple pass in a function and an array of inputs and useMemo will only recompute the memoized value when one of the inputs has changed.
+
+What is useEffect?
+useeffect will call every time page rerender.
+Useffect vs usememo vs usecallback
+
+What is usereducer?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+what is react router?
+React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL.
+
+
+React.memo?
+
+Pure Component?
+
+
+
+
+
+
